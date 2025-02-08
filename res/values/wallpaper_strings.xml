@@ -1,0 +1,19 @@
+<!--
+    Copyright (C) 202-2025 Project Zenith
+    SPDX-License-Identifer: Apache-2.0
+-->
+<resources>
+
+    <!-- Mountain Collection -->
+    <string name="category_mountain_walls">Mountain</string>
+    <string name="author_zenith">By Zenith Team</string>
+    
+    <string name="wall_1">Mountain-1</string>
+    <string name="wall_2">Mountain-2</string>
+    <string name="wall_3">Mountain-3</string>
+    <string name="wall_4">Mountain-4</string>
+    <string name="wall_5">Mountain-5</string>
+    <string name="wall_6">Mountain-6</string>
+    <string name="wall_7">Mountain-7</string>
+    <string name="wall_8">Mountain-8</string>
+</resources>

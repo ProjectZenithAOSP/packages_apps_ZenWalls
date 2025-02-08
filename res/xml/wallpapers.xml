@@ -1,0 +1,57 @@
+<!--
+    Copyright (C) 2024-2025 Project Zenith
+    SPDX-License-Identifer: Apache-2.0
+-->
+<resources>
+
+    <category id="Mountain" title="@string/category_mountain_walls" featured="1">
+    
+        <static-wallpaper
+            id="1"
+            src="@drawable/wall-1"
+            title="@string/wall_1"
+            subtitle1="@string/author_zenith" />
+            
+        <static-wallpaper
+            id="2"
+            src="@drawable/wall-2"
+            title="@string/wall_2"
+            subtitle1="@string/author_zenith" />
+            
+        <static-wallpaper
+            id="3"
+            src="@drawable/wall-3"
+            title="@string/wall_3"
+            subtitle1="@string/author_zenith" />
+            
+        <static-wallpaper
+            id="4"
+            src="@drawable/wall-4"
+            title="@string/wall_4"
+            subtitle1="@string/author_zenith" />
+            
+        <static-wallpaper
+            id="5"
+            src="@drawable/wall-5"
+            title="@string/wall_5"
+            subtitle1="@string/author_zenith" />
+            
+        <static-wallpaper
+            id="6"
+            src="@drawable/wall-6"
+            title="@string/wall_6"
+            subtitle1="@string/author_zenith" />
+            
+        <static-wallpaper
+            id="7"
+            src="@drawable/wall-7"
+            title="@string/wall_7"
+            subtitle1="@string/author_zenith" />
+            
+        <static-wallpaper
+            id="8"
+            src="@drawable/wall-8"
+            title="@string/wall_8"
+            subtitle1="@string/author_zenith" />
+        </category>
+</resources>
